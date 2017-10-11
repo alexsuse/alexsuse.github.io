@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weird Fishes"
-date:   2017-09-03 17:35:00 -0300
+date:   2017-10-10 17:35:00 -0300
 categories: music
 ---
 > In the deepest ocean  
